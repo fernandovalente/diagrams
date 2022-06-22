@@ -23,4 +23,4 @@ with Diagram("Greenole", show=False):
     # API Device
     lb_api_device = ELB("Load Balance")
 
-    lb_api_device >> dns_plat3
+    lb_api_device
