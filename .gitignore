@@ -1,0 +1,15 @@
+# Distribution / packaging
+.git/
+.Python
+dist/
+eggs/
+.eggs/
+*.egg/
+*.egg-info/
+.installed.cfg
+*.egg
+*.pyc
+**/__pycache__/*
+*.py[cod]
+.vscode/
+venv/
